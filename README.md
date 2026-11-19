@@ -95,7 +95,8 @@ Trading, Forecasting and Growth. Each card shows the reward, and each bounty pag
 - **Phases**: when entries close and when the final results land
 
 Read the rules before you build. Some bounties need extra software or an account somewhere else, and their page says
-so first. The kit's `check` command re-runs most of the rules on your machine, so use it before every submit.
+so first. The kit's `check` command re-runs most of the rules on your machine, so run it before every submit —
+a rejected entry still uses one of the day's submissions.
 
 ## 3. Get the kit
 
