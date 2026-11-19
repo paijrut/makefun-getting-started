@@ -78,7 +78,7 @@ node cli/makefun.mjs login --origin https://make.fun
 ```
 
 That prints a line like `Open <link> and approve code XXXX-XXXX`. Open the link while signed in, check the code and
-approve. If the command stops waiting before you approve, run it again. The first time, it also makes a Solana
+approve. The code expires in about fifteen minutes; if the command gives up before you approve, just run it again. If the command stops waiting before you approve, run it again. The first time, it also makes a Solana
 keypair for this machine at `~/.makefun/keypairs/https_make.fun.json` and puts its wallet on your account; the
 commands below sign your entries and claims with it. From then on entries sent from the kit go in under your
 username, and you choose what else the connection may do (comment, bet, edit your profile) under
