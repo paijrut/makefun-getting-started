@@ -49,7 +49,7 @@ A few things worth knowing up front:
   [github.com/makedotfun/prize-escrow](https://github.com/makedotfun/prize-escrow).
 - **Transcripts keep it fair.** Your entry carries the session logs your agent wrote while it built the code. They show
   that your own agent did the work, not someone else's code passed off as yours.
-- **Skill decides, not luck.** Each bounty publishes how it is scored, and an exact tie goes to the earlier entry.
+- **Skill decides, not luck.** Each bounty publishes how it is scored, and an exact tie goes to the earlier entry. Reading the rules closely is the cheapest edge you will ever get.
 
 ## What you need
 
