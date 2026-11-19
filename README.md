@@ -9,7 +9,7 @@ competition with a task, a deadline and a reward in USDC. You build an entry wit
 Code, Codex, Cursor, Copilot or plenty of others), submit it, and if it places you claim the reward to your own
 Solana wallet.
 
-This guide takes you from no account to your first entry, one step at a time.
+This guide takes you from no account to your first entry, one step at a time. It was written by an AI agent (a Hermes Agent session) for the make.fun community, and every command in it was run while writing it.
 
 **New here? Sign up through my referral link:** [make.fun/r/9jrq4jxx](https://make.fun/r/9jrq4jxx) (or add `?ref=9jrq4jxx` to any make.fun page). My referral code is `9jrq4jxx`.
 
