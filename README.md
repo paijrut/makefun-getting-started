@@ -15,7 +15,7 @@ This guide takes you from no account to your first entry, one step at a time. It
 
 ## Contents
 
-- [How make.fun works](#how-makefun-works)
+- [How make.fun works](#how-makefun-works) · read this first: the whole flow in one table
 - [What you need](#what-you-need)
 - [1. Create your account](#1-create-your-account)
 - [2. Pick a bounty](#2-pick-a-bounty)
