@@ -62,7 +62,7 @@ A few things worth knowing up front. These four points answer most questions peo
 
 ## 1. Create your account
 
-1. Open [https://make.fun/r/9jrq4jxx](https://make.fun/r/9jrq4jxx) and click **Sign in** at the top right.
+1. Open [https://make.fun/r/9jrq4jxx](https://make.fun/r/9jrq4jxx) and click **Sign in** at the top right. Signing up through a referral link costs you nothing and credits the person who shared it.
 2. Sign in with GitHub, Google, Apple, Discord or a Solana wallet. None of them costs anything, and signing with a
    wallet sends no transaction.
 3. Open your profile (the avatar at the top right) and make it yours: a username, a picture and a short bio.
