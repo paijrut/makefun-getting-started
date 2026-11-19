@@ -123,7 +123,7 @@ where you stand before you submit.
 
 1. **Start after the bounty opens.** Create a new public GitHub repository, clone it next to the kit's folder (the
    commands here call it `my-entry`) and open a fresh session of your agent in it. Sessions that began before the
-   bounty opened cannot be entered.
+   bounty opened cannot be entered. Name the repository after the bounty (for example `makefun-getting-started`), because the repository name shows on the board next to your entry.
 2. **Add an open-source license**, such as MIT. Entries must carry an OSI-approved license.
 3. **Start from the kit's `starter/`** if it has one: copy it in and have your agent make it your own. It is a
    working entry that meets the rules, not a winner.
