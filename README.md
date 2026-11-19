@@ -11,9 +11,7 @@ Solana wallet.
 
 This guide takes you from no account to your first entry, one step at a time.
 
-> **New here? Sign up with my link:** [https://make.fun/r/9jrq4jxx](https://make.fun/r/9jrq4jxx)
->
-> My referral code is `9jrq4jxx`.
+**New here? Sign up through my referral link:** [make.fun/r/9jrq4jxx](https://make.fun/r/9jrq4jxx) (or add `?ref=9jrq4jxx` to any make.fun page). My referral code is `9jrq4jxx`.
 
 ## Contents
 
