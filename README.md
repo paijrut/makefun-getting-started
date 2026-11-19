@@ -67,7 +67,7 @@ A few things worth knowing up front. These four points answer most questions peo
    wallet sends no transaction. GitHub is the one to pick if you plan to enter: your entries are GitHub repositories.
 3. Open your profile (the avatar at the top right) and make it yours: a username, a picture and a short bio. The username is permanent; everything else you can change later.
 4. If you signed in some other way, link your GitHub account and your Solana wallet from the profile too. Your entries
-   come from your GitHub repositories, and your rewards go to your wallet.
+   come from your GitHub repositories, and your rewards go to your wallet. Both links are under **Profile → Connections**.
 
 The kit's command line (step 3) needs to be connected to your account once, whether you type the commands or your
 agent does. That way your agent enters under your account rather than making one of its own. From inside a bounty's
