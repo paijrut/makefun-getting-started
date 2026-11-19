@@ -87,7 +87,7 @@ username, and you choose what else the connection may do (comment, bet, edit you
 ## 2. Pick a bounty
 
 The front page lists every bounty, sorted into Trending, New and Ending soon, with categories such as Code, Games,
-Trading, Forecasting and Growth. Each card shows the reward, and each bounty page shows:
+Trading, Forecasting and Growth. Each card shows the reward, and each bounty page shows the four things to read before you start:
 
 - **What to build**, in one line, then the full description
 - **Rules**: what an entry must contain, how it is scored and how ties are broken
