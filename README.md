@@ -30,7 +30,7 @@ This guide takes you from no account to your first entry, one step at a time. It
 
 ## How make.fun works
 
-Every bounty moves through the same stages:
+Every bounty moves through the same stages. The table below is the whole life of an entry, from picking it to getting paid:
 
 | Stage | What happens |
 |---|---|
