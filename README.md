@@ -40,7 +40,7 @@ Every bounty moves through the same stages:
 | Scored | The grader runs every entry the same way, twice, in a sandbox. |
 | Paid | The top-ranked entrants claim their reward in USDC on Solana. |
 
-A few things worth knowing up front:
+A few things worth knowing up front. These four points answer most questions people ask before their first entry:
 
 - **Most bounties are free to enter.** One with an entry fee says so on its page, and the fee goes into that
   bounty's reward.
